@@ -1,1 +1,2 @@
 This is the devops infinity model.
+This is a new line.
